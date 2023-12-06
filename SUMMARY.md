@@ -7,3 +7,4 @@
   * [Linear Regression](machine-learning/linear-regression.md)
   * [Classification with Logistic regression](machine-learning/classification-with-logistic-regression.md)
   * [Overfitting](machine-learning/overfitting.md)
+  * [Neural Networks](machine-learning/neural-networks.md)
