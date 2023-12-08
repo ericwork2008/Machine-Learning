@@ -4,6 +4,10 @@ a neuron can be think as a cell with input & output. ![](<../.gitbook/assets/ima
 
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="188"><figcaption><p>signal Neural equation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Multiple Neural Network</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Tensorflow Neural Network</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
