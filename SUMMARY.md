@@ -9,5 +9,5 @@
   * [Overfitting](machine-learning/overfitting.md)
   * [Neural Networks](machine-learning/neural-networks/README.md)
     * [Tensorflow](machine-learning/neural-networks/tensorflow.md)
-  * [Activation Funtions](machine-learning/activation-funtions.md)
+    * [Activation Funtions](machine-learning/neural-networks/activation-funtions.md)
   * [Industry AI software](machine-learning/industry-ai-software.md)
