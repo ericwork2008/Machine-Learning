@@ -22,6 +22,10 @@ a= [[0 1]
 a[0, 2:7:1]
 ```
 
+## Linear Regression
+
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Gradient descent
 
 Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.
@@ -35,7 +39,12 @@ Alpha is the learning rate
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 * Batch: each step of gradient descent uses all the training examples.
 
+## Adam (Adaptive Moment estimation) Algorithm
+
+learning alpha isn't a fix value.
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
