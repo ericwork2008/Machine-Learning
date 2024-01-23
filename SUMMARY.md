@@ -12,4 +12,5 @@
     * [Activation Funtions](machine-learning/neural-networks/activation-funtions.md)
     * [Multi-Class](machine-learning/neural-networks/multi-class.md)
     * [Convolutional Layer](machine-learning/neural-networks/convolutional-layer.md)
+  * [Model Selection](machine-learning/model-selection.md)
   * [Industry AI software](machine-learning/industry-ai-software.md)
