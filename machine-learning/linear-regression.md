@@ -1,5 +1,9 @@
 # Linear Regression
 
+## Refresh
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 ## Fomular
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
@@ -43,7 +47,8 @@ Alpha is the learning rate
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Batch: each step of gradient descent uses all the training examples.
+* Batch: batch refers to running all the examples in one iteration.
+*
 
 ## Adam (Adaptive Moment estimation) Algorithm
 
@@ -52,3 +57,16 @@ learning alpha isn't a fix value.
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+## Feature scale
+
+* to change feature in \[0,1].
+* mean normalization.  mean
+* z-normalization  =  (x-mean)/standard deviation
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+Scikit-learn has a gradient descent regression model [sklearn.linear\_model.SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear\_model.SGDRegressor.html#examples-using-sklearn-linear-model-sgdregressor). Like your previous implementation of gradient descent, this model performs best with normalized inputs. [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler) will perform z-score normalization as in a previous lab. Here it is referred to as 'standard score'.
+
+## Learning rate
+

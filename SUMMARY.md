@@ -15,3 +15,5 @@
   * [Bias & Variance](machine-learning/bias-and-variance/README.md)
     * [Overfitting](machine-learning/bias-and-variance/overfitting.md)
   * [Industry AI software](machine-learning/industry-ai-software.md)
+  * [Polynomial regression](machine-learning/polynomial-regression.md)
+  * [Classification](machine-learning/classification.md)
