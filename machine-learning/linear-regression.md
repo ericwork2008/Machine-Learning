@@ -48,7 +48,8 @@ Alpha is the learning rate
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Batch: batch refers to running all the examples in one iteration.
-*
+
+
 
 ## Adam (Adaptive Moment estimation) Algorithm
 
@@ -70,3 +71,10 @@ Scikit-learn has a gradient descent regression model [sklearn.linear\_model.SGDR
 
 ## Learning rate
 
+## Hyperparameters
+
+[**Hyperparameters**](https://developers.google.com/machine-learning/glossary#hyperparameter) are variables that control different aspects of training. Three common hyperparameters are:
+
+* [**Learning rate**](https://developers.google.com/machine-learning/glossary#learning-rate)
+* [**Batch size**](https://developers.google.com/machine-learning/glossary#batch-size)
+* [**Epochs**](https://developers.google.com/machine-learning/glossary#epoch)
