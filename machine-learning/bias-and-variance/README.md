@@ -1,6 +1,6 @@
 # Bias & Variance
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In machine learning, **bias** and **variance** are two key sources of error that affect the performance and accuracy of predictive models. These concepts are part of the **bias-variance tradeoff**, a fundamental challenge in developing models that generalize well to unseen data.
 

@@ -20,7 +20,7 @@
 * [L2 regularization](https://developers.google.com/machine-learning/crash-course/overfitting/regularization)
 * [Early stopping](https://developers.google.com/machine-learning/crash-course/overfitting/regularization#early\_stopping\_an\_alternative\_to\_complexity-based\_regularization): Limiting the number of training steps to halt training while loss is still decreasing.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Gradient Descent
 
@@ -28,9 +28,9 @@
 
 ### Confusion matrix <a href="#confusion_matrix" id="confusion_matrix"></a>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Recall is probability of detection**
 
