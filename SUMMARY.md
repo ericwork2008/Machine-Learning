@@ -6,6 +6,7 @@
 * [Machine Learning](machine-learning/README.md)
   * [Linear Regression](machine-learning/linear-regression.md)
   * [Classification with Logistic regression](machine-learning/classification-with-logistic-regression.md)
+  * [Decision Tree Model](machine-learning/decision-tree-model.md)
   * [Neural Networks](machine-learning/neural-networks/README.md)
     * [Tensorflow](machine-learning/neural-networks/tensorflow.md)
     * [Activation Funtions](machine-learning/neural-networks/activation-funtions.md)
