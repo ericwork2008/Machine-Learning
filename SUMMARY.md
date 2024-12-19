@@ -18,4 +18,5 @@
   * [Industry AI software](machine-learning/industry-ai-software.md)
   * [Polynomial regression](machine-learning/polynomial-regression.md)
   * [Classification](machine-learning/classification.md)
+  * [Decision Tree](machine-learning/decision-tree.md)
   * [Machine Project Process](machine-learning/machine-project-process.md)
