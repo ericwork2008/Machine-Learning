@@ -6,7 +6,7 @@
 
 ## Fomular
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 a = np.array([1, 2, 3, 4])
@@ -67,7 +67,7 @@ learning alpha isn't a fix value.
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Scikit-learn has a gradient descent regression model [sklearn.linear\_model.SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear\_model.SGDRegressor.html#examples-using-sklearn-linear-model-sgdregressor). Like your previous implementation of gradient descent, this model performs best with normalized inputs. [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler) will perform z-score normalization as in a previous lab. Here it is referred to as 'standard score'.
+Scikit-learn has a gradient descent regression model [sklearn.linear\_model.SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html#examples-using-sklearn-linear-model-sgdregressor). Like your previous implementation of gradient descent, this model performs best with normalized inputs. [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler) will perform z-score normalization as in a previous lab. Here it is referred to as 'standard score'.
 
 ## Learning rate
 
