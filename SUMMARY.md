@@ -20,3 +20,4 @@
   * [Clustering](machine-learning/clustering.md)
   * [Industry AI software](machine-learning/industry-ai-software.md)
   * [Machine Project Process](machine-learning/machine-project-process.md)
+  * [Anomaly Detection](machine-learning/anomaly-detection.md)
