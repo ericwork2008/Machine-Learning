@@ -16,4 +16,4 @@ Our goal when creating a model is to be able to use the model to predict outcome
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>

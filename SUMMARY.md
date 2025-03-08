@@ -21,4 +21,8 @@
   * [Clustering](machine-learning/clustering.md)
   * [Industry AI software](machine-learning/industry-ai-software.md)
   * [Machine Project Process](machine-learning/machine-project-process.md)
+  * [Recommand System](machine-learning/recommand-system/README.md)
+    * [Collaborative filtering](machine-learning/recommand-system/collaborative-filtering.md)
+    * [Overview](machine-learning/recommand-system/overview.md)
+    * [Implementation](machine-learning/recommand-system/implementation.md)
   * [Anomaly Detection](machine-learning/anomaly-detection.md)
