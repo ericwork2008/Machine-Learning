@@ -2,7 +2,7 @@
 
 From ChatGPT
 
-Collaborative filtering (CF) is a technique used in machine learning and recommendation systems to predict a user's interests based on past interactions and preferences of similar users. It operates on the assumption that if two users have agreed on certain items in the past, they are likely to have similar preferences in the future.
+**Collaborative filtering (CF) is a technique used in machine learning and recommendation systems to predict a user's interests based on past interactions and preferences of similar users**. It operates on the assumption that if two users have agreed on certain items in the past, they are likely to have similar preferences in the future.
 
 #### Types of Collaborative Filtering:
 
