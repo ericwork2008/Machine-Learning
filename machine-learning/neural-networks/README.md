@@ -1,6 +1,6 @@
 # Neural Networks
 
-a neuron can be think as a cell with input & output. ![](<../../.gitbook/assets/image (7) (1) (1).png>)
+a neuron can be think as a cell with input & output. ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 
 
