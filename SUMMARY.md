@@ -26,4 +26,5 @@
     * [Collaborative filtering](machine-learning/recommand-system/collaborative-filtering.md)
     * [Implementation](machine-learning/recommand-system/implementation.md)
     * [Content Based Filterting](machine-learning/recommand-system/content-based-filterting.md)
+  * [Reinforcement Learning](machine-learning/reinforcement-learning.md)
   * [Anomaly Detection](machine-learning/anomaly-detection.md)
