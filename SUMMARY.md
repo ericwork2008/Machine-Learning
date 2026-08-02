@@ -4,6 +4,7 @@
 * [形式语言与自动机](形式语言与自动机.md)
 * [数学基础](数学基础.md)
 * [Machine Learning](machine-learning/README.md)
+  * [Statics](machine-learning/statics.md)
   * [Supervise Learning](machine-learning/supervise-learning/README.md)
     * [Linear Regression](machine-learning/supervise-learning/linear-regression.md)
     * [Polynomial regression](machine-learning/supervise-learning/polynomial-regression.md)
